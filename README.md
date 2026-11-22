@@ -67,3 +67,9 @@ L'arborescence de référence utilisée ici (`#Pathoma`, `#B&B`, `#FirstAid`, `#
 la numérotation des chapitres a évolué en v12, d'où l'usage systématique de jokers. Si une
 recherche ne renvoie rien, le nom exact du namespace se lit dans la barre latérale du
 navigateur de cartes d'Anki, et se corrige dans `lib/usmle-plan.ts`.
+
+## Historique
+
+Ce dépôt reprend le dossier `apps/usmle-step1` qui vivait auparavant dans le dépôt de CoroPath
+(`zid-web/v0-coronary-care-pathways-st`). Le projet Vercel **usmle-step1** est désormais branché
+sur ce dépôt-ci, à la racine.
